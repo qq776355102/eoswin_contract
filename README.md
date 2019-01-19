@@ -1,3 +1,6 @@
+#欢迎加我微信相互交流
+ momo1106714071
+ 
 # EOS.Win - purely on-chain decentralized platform 
 
 We are glad to announce that all games on EOS.Win are open source, including Dice, Lottery, BLACKJACK and Jackpot. We wish we can contribute to the development of EOS ecosystem.
